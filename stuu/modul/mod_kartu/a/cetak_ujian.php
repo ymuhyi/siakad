@@ -75,7 +75,7 @@ else{
 						<td width='10'></td>
 						<td>
 							<b>Universitas ASFA Solution</b><br>
-							CV. ASFA Solution<br>
+							Polagro<br>
 							Jl. Pegadaian No. 38 Arjawinangun, Cirebon - Indonesia 45162<br>
 							Telp. (0231) 358630, 085 621 21141
 						</td>

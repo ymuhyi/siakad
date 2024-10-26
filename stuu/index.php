@@ -5,11 +5,11 @@ session_start();
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>CV ASFA Solution :: Administrator ::</title>
+    <title>Polagro :: Administrator ::</title>
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="author" content="CV ASFA SOLUTION">
+    <meta name="author" content="Polagro">
     
     
 	<link rel="stylesheet" type="text/css" href="../css/reset.css" media="screen" />
@@ -159,7 +159,7 @@ session_start();
 	<div class="clear"></div>
 
 	<div id="site_info">
-		<p>Copyright &copy; <?php echo date('Y'); ?> CV. ASFA Solution. All Rights Reserved.</p>
+		<p>Copyright &copy; <?php echo date('Y'); ?> Polagro. All Rights Reserved.</p>
 	</div>
 </body>
 </html>

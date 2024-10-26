@@ -2728,7 +2728,7 @@ CREATE TABLE IF NOT EXISTS `as_bahan_kuliah` (
 --
 
 INSERT INTO `as_bahan_kuliah` (`bahan_id`, `judul`, `prodi_id`, `makul_id`, `kelas_id`, `jenis`, `track_download`, `status`, `keterangan`, `filename`, `dos`, `created_date`, `created_userid`, `modified_date`, `modified_userid`) VALUES
-(1, 'Company Profile CV. ASFA Solution', 1, 13, 7, 'B', 1, 'A', '<p>Introducing Module</p>\r\n', '20131128045805_Company Profile CV ASFA Solution.pdf', 12, '2013-11-28 16:58:05', 3, '0000-00-00 00:00:00', 0);
+(1, 'Company Profile Polagro', 1, 13, 7, 'B', 1, 'A', '<p>Introducing Module</p>\r\n', '20131128045805_Company Profile Polagro.pdf', 12, '2013-11-28 16:58:05', 3, '0000-00-00 00:00:00', 0);
 
 -- --------------------------------------------------------
 
